@@ -1,4 +1,4 @@
-package datos;
+package org.alejandro.datos;
 
 public class FestivalMusica {
     public String nombreFestival;

@@ -1,6 +1,6 @@
-package presentacion;
+package org.alejandro.presentacion;
 
-import dominio.FestivalMusicaDAM_Dominio;
+import org.alejandro.dominio.FestivalMusicaDAM_Dominio;
 
 public class FestivalMusicaDAM_Presentacion {
     public static void main(String[] args) {

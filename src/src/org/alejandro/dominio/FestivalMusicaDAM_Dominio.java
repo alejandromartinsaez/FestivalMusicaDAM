@@ -1,7 +1,7 @@
-package dominio;
+package org.alejandro.dominio;
 
-import datos.FestivalDatos;
-import datos.FestivalMusica;
+import org.alejandro.datos.FestivalDatos;
+import org.alejandro.datos.FestivalMusica;
 
 public class FestivalMusicaDAM_Dominio {
     private FestivalDatos repo = new FestivalDatos();
